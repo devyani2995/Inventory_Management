@@ -1,0 +1,5 @@
+1.We need to install 'multer' for uploading image
+2.changes to view
+3.Middleware to handle files(take the file,read the file and save inside the folder)
+4.apply the Middleware
+5.update the controller to Update URLs of images
