@@ -43,7 +43,7 @@ This is an Inventory Management application built using Node.js, Express, and EJ
 ## Screenshots
 
 - **Login Page**
-![Login Page](public/images/login-page.png)
+![Login Page](public/images/login.png)
 
 - **Register Page**
 ![Register Page](public/images/register.png)
@@ -51,5 +51,5 @@ This is an Inventory Management application built using Node.js, Express, and EJ
 - **Product List**
 ![Product List](public/images/products.png)
 
--**New Product Page**
+- **New Product Page**
 ![New Product Page](public/images/new-product.png)
